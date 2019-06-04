@@ -1,0 +1,36 @@
+---
+title: "Hamilton Students Seminar Series - Meetings"
+date: 2019-2020
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Meetings
+
+## 1st meeting: June 4, 2019
+
+## Summary
+
+- The seminars will start at the end of September (start of term 2)
+- A priori, we will have one seminar every week
+- Abstracts should be asked to the speakers one week in advance, for us to advertise it and maybe make a small booklet after
+- The schedule needs to be discussed over Slack:
+  - The order can be voluntary
+  - If no one volunteers to present at some date, we'll randomly assign a name
+- Damien will check if there's any funding possibility for the seminars (for food, for example)
+- In general, the pesenter's supervisor will not be invited, unless the presenter decides otherwise, for her or his own reasons 
+
+
+## Action points
+
+- Organise the mailing list - Hazel
+- Set up (or check how to setup up) the webpage - Tristan
+- Make a poll to decide the best day and time for the seminars - Bruna 
+- After the day/time is decided, book the seminar room with Kate - Bruna 
+
+
+## 2nd meeting: June 27, 2019
