@@ -27,10 +27,30 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Action points
 
-- Organise the mailing list - Hazel
-- Set up (or check how to setup up) the webpage - Tristan
-- Make a poll to decide the best day and time for the seminars - Bruna 
-- After the day/time is decided, book the seminar room with Kate - Bruna 
+- Organise the mailing list - Hazel [TO DO]
+- Set up (or check how to setup up) the webpage - Tristan [To DO]
+- Make a poll to decide the best day and time for the seminars - Bruna [DONE]
+- After the day/time is decided, book the seminar room with Kate - Bruna  [TO DO]
 
 
 ## 2nd meeting: June 27, 2019
+
+## Summary
+
+  - We set up the day and time of the week for the seminars to be every Thursday at 11am; 
+  - Hazel communicated that we'll have to use the current mailing
+  list for advertising, and that the emails should be sent out by Kate/Rosemary; 
+  - The seminars will start in September 26; 
+  - The current schedule is available at:
+  
+  `https://docs.google.com/spreadsheets/d/1BkxZIgsHCDD-ASGVtmsn6NoN7O5q8lcvXDopfqrsvBk/edit?usp=sharing`
+  - Apparently we can't get any money for food, but we'll try asking Ken 
+  once more 
+
+## Action points
+
+- Book the seminar room with Kate - Bruna 
+- Organise the mailing list - Hazel
+- Set up (or check how to setup up) the webpage - Tristan
+
+## 2nd meeting: TBA
